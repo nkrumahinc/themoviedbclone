@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">themoviedbclone</string>
+    <string name="api_key">6963c8784e37e8245133a872080fc96b</string>
 </resources>
